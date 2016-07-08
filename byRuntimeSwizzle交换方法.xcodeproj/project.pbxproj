@@ -24,6 +24,7 @@
 		5956B7111D1AC32B006945AF /* Foundation+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Foundation+Extension.m"; sourceTree = "<group>"; };
 		5956B7131D1AC35C006945AF /* Foundation+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Foundation+Extension.h"; sourceTree = "<group>"; };
 		59AB4D591D306C680081E441 /* readme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = readme.h; sourceTree = "<group>"; };
+		59AB4D5A1D306F3B0081E441 /* gaogedaxinwen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gaogedaxinwen.h; sourceTree = "<group>"; };
 		59C5EC4E1D1A924F002F7019 /* byRuntimeSwizzle交换方法.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "byRuntimeSwizzle交换方法.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59C5EC521D1A924F002F7019 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		59C5EC541D1A924F002F7019 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 				59C5EC511D1A924F002F7019 /* Supporting Files */,
 				59C5EC6D1D1A92EA002F7019 /* runtime总结.h */,
 				59AB4D591D306C680081E441 /* readme.h */,
+				59AB4D5A1D306F3B0081E441 /* gaogedaxinwen.h */,
 			);
 			path = "byRuntimeSwizzle交换方法";
 			sourceTree = "<group>";
